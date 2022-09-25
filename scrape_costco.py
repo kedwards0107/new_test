@@ -58,6 +58,7 @@ try:
 #     # Can clear entry in input field with:
 #     #"name of found element".clear() ex. element.clear()
 
+test = "new"
 
 except:
     driver.quit()
